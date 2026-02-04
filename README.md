@@ -251,14 +251,5 @@ For suggestions, issues, or collaboration:
 
 ```
 
----
-
-If you want, I can next help you write:
-
-✅ Hackathon presentation script  
-✅ PPT content  
-✅ Resume project description  
-✅ Technical documentation
-```
 
 
