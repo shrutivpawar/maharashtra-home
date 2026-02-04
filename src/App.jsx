@@ -5,6 +5,7 @@ import Section from './components/Section';
 import Gallery from './components/Gallery';
 import Footer from './components/Footer';
 import Bottom from './components/Bottom';
+import FloatingChat from './components/FloatingChat';
 import './styles.css';
 
 function App() {
@@ -89,6 +90,7 @@ function App() {
       <Gallery />
       <Footer />
       <Bottom />
+      <FloatingChat />
     </>
   );
 }
