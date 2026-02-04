@@ -70,7 +70,7 @@ maharashtra-home/
 
 ---
 
-##⚙️ Setup & Installation
+## ⚙️ Setup & Installation
 Follow these steps to run the project locally:
 
 Clone the Repo:
@@ -94,7 +94,7 @@ npm run dev
 
 
 ---
-##🤝 Contributing
+## 🤝 Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create.
 
 Fork the Project
@@ -111,5 +111,5 @@ Open a Pull Request
 
 ---
 
-##📜 Disclaimer
+## 📜 Disclaimer
 This project is a functional prototype created for educational and demonstration purposes. It is not the official website of the Government of Maharashtra.
