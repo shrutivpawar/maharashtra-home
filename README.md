@@ -146,3 +146,119 @@ maharashtra-home/
 └── package.json
 ```
 
+## ⚙️ Installation & Setup
+
+Follow these steps to run the project locally.
+
+### Step 1: Clone the Repository
+
+```bash
+git clone https://github.com/shrutivpawar/maharashtra-home.git
+cd maharashtra-home
+````
+
+### Step 2: Install Frontend Dependencies
+
+```bash
+cd frontend
+npm install
+```
+
+### Step 3: Start Development Server
+
+```bash
+npm run dev
+```
+
+The application will be available at:
+
+```
+http://localhost:5173
+```
+
+---
+
+## 🧪 Testing & Quality Assurance
+
+To ensure reliability and performance, the following testing practices are followed:
+
+* Manual UI/UX testing
+* Cross-browser compatibility testing
+* Responsive design testing
+* Chatbot response validation
+* Performance optimization checks
+
+Future scope includes automated unit and integration testing.
+
+---
+
+## 🤝 Contribution Guidelines
+
+We welcome contributions from developers, designers, and researchers.
+
+### How to Contribute
+
+1. Fork the repository
+2. Create a new feature branch
+3. Implement your changes
+4. Commit your work
+5. Submit a pull request
+
+Example workflow:
+
+```bash
+git checkout -b feature/Enhancement
+git commit -m "Improve chatbot responses"
+git push origin feature/Enhancement
+```
+
+---
+
+## 📄 Legal Disclaimer
+
+This project is developed for academic and demonstration purposes only.
+
+It is not affiliated with, endorsed by, or operated by the Government of Maharashtra.
+
+All referenced materials belong to their respective authorities.
+
+---
+
+## 🚀 Future Roadmap
+
+Planned improvements include:
+
+* Full RAG-based AI chatbot deployment
+* Voice-enabled assistance system
+* Real-time application tracking
+* Multilingual expansion (Marathi, Hindi, English)
+* Admin analytics dashboard
+* Cloud hosting and scalability
+
+---
+
+## 📬 Support & Contact
+
+For suggestions, issues, or collaboration:
+
+* Open a GitHub Issue
+* Submit a Pull Request
+* Contact the project maintainers
+
+---
+
+⭐ If you find this project helpful, please consider giving it a star!
+
+```
+
+---
+
+If you want, I can next help you write:
+
+✅ Hackathon presentation script  
+✅ PPT content  
+✅ Resume project description  
+✅ Technical documentation
+```
+
+
